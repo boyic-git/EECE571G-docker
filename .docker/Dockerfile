@@ -1,3 +1,2 @@
 # syntax=docker/dockerfile:1
 FROM node:14.18.3
-COPY ../package.json  .
